@@ -9,3 +9,6 @@ As principais diferenças dessa aplicação para o tutorial são:
 1. Construção em MVC (separando as rota)
 2. Utilização do MySQL ao invés do SQLite
 3. Criação de uma API para consumo.
+
+
+Bons estudos!
