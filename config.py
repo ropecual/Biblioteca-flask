@@ -1,7 +1,7 @@
 DEBUG = True
 
 USERNAME = 'root'
-PASSWORD = 'A123456b!'
+PASSWORD = '<>'
 SERVER = 'localhost'
 DB = 'livraria'
 
